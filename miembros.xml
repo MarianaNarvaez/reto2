@@ -1,0 +1,26 @@
+<grupo>
+   <nombre>Juan Francisco Cardona McCormick</nombre>
+   <url>h...</url>
+   <miembros>
+	<miembro>
+		<nombre>Mariana Narvaez Berrio</nombre>
+		<codigo>201410054010</codigo>
+		<email>mnarvae3@eafit.edu.co</email>
+   	</miembro>
+	<miembro>				
+		<nombre>Maria Alenadra Colorado Rios</nombre>
+		<codigo>201410069010</codigo>
+		<email>mcolora2@eafit.edu.co</email>
+	</miembro>
+    </miembros>
+    <proyecto>
+      <java>
+	<mainclases>
+	  <mainclass srcdir="src/main/java" package="co" clase= "MainLexerAntlalemar.g4"
+	  </mainclases>
+	    <mainclass srcdir="src/main/java" package="co" clases= "MainLexerJflex.jflex"
+	</mainclases>
+      </java>
+    </proyecto>
+</grupo>
+
